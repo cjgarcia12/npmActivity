@@ -1,0 +1,16 @@
+{
+  "name": "npmactivity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "Christian Garcia <christian.jgarcia03@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
